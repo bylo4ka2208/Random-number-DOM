@@ -39,7 +39,7 @@ console.log(language)
 //     return Math.floor(Math.random() * (max - min)) + min;
 // }
 function getRandomInt() {
-    return Math.floor(Math.random() * (100 - 1)) + 1;
+    return Math.floor(Math.random() * (1 - 1)) + 1;
 }
 
 function randomNumber () {
